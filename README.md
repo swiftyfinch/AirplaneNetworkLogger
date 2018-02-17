@@ -9,3 +9,5 @@ Easy lightweight logger for Moya.
 - [x] Remove escape sequences;
 - [x] Cyrillic support;
 - [x] Airplane!
+
+![Example](https://github.com/artFintch/AirplaneNetworkLogger/blob/master/imgs/Example.png)
