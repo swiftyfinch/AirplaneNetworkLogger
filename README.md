@@ -1,7 +1,7 @@
 ✈︎ AirplaneNetworkLogger
 ========
 
-[![Swift Version](https://img.shields.io/badge/Swift-3.1-orange.svg)](https://developer.apple.com/swift)
+[![Swift Version](https://img.shields.io/badge/Swift-4.0-orange.svg)](https://developer.apple.com/swift)
 [![Platform](https://img.shields.io/badge/platform-iOS-lightgrey.svg)](https://www.apple.com/ru/ios)
 
 Easy lightweight logger for Moya.
